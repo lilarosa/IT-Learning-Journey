@@ -1,23 +1,41 @@
-# IT-Learning-Journey 🚀
+# IT Learning Journey
 
-Willkommen in meinem IT-Lern-Repository! Hier dokumentiere ich meine Ausbildung und meine praktischen Projekte.
+Zentrales Repository fuer meinen langfristigen Lernpfad in Richtung Softwareentwicklung.
 
-## 📂 Inhaltsverzeichnis (目录)
-- **/Notes**: Tägliche Lernprotokolle und IT-Theorie (Deutsch/Chinesisch).
-- **/Scripts**: Praktische PowerShell-Automatisierung für Active Directory.
+## DE: Ziel
+Dieses Repository ist mein Einstiegspunkt. Alle Lern- und Projekt-Repositories sind hier nach Zweck organisiert:
+- `Notes`: Lernnotizen, Wochenprotokolle, Reflexion
+- `Labs`: kurze, kursbezogene Uebungen
+- `Projects`: lauffaehige, vorzeigbare Softwareprojekte
 
-## 🛠️ Aktueller Fokus: Active Directory Design
-Ich lerne derzeit, wie man effiziente OU-Hierarchien (Organizational Units) für Unternehmen aufbaut. 
+## DE: Repository-Map
+### Notes
+- [Study-notes](https://github.com/lilarosa/Study-notes)
 
-**Heutige Struktur:**
-- **Regionale OUs:** Berlin, München, Hamburg.
-- **Abteilungen:** IT, HR, Finance, Vertrieb, Produktion, Archiv.
-- **Zentrale Gruppen:** Distribution, Security, Administration (Parallel zu den Standorten).
+### Labs
+- [Linux-Week1-Lab](https://github.com/lilarosa/Linux-Week1-Lab)
+- [DHCP-Apache-Webserver_Week2_Lab](https://github.com/lilarosa/DHCP-Apache-Webserver_Week2_Lab)
 
-## 💻 Tech-Stack
-- **OS:** macOS (Mac mini M4) & Windows Server 2022
-- **Tools:** PowerShell, iTerm2, Git, VS Code
-- **Sprachen:** Deutsch, Chinesisch (Mandarin), Englisch
+### Projects
+- [java-projects](https://github.com/lilarosa/java-projects)
+- [frontend-projects](https://github.com/lilarosa/frontend-projects)
+- [hungary-survival](https://github.com/lilarosa/hungary-survival)
+- [arduino-practice](https://github.com/lilarosa/arduino-practice) (geplant/neu)
 
----
-*Erstellt von lilarosa | 2026*
+## DE: Arbeitsprinzip
+- README-Sprache: Deutsch zuerst, Englisch danach.
+- Jede Aenderung mit kurzer Commit-Nachricht und Datum.
+- Jede Woche mindestens ein Lern-Update in `Notes/`.
+
+## EN: Purpose
+This is the central entry point for my long-term software engineering learning path.
+
+## EN: Structure
+- `Notes`: learning notes and weekly reflection
+- `Labs`: short course-based exercises
+- `Projects`: runnable portfolio-oriented projects
+
+## EN: Rules
+- README language order: German first, English second.
+- Clear commit messages with dates.
+- At least one weekly learning update in `Notes/`.
