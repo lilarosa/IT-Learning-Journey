@@ -1,44 +1,25 @@
-# Lernfeld 01: Einstieg in IT und Arbeitsumfeld (AWE)
+# Lernfeld 01: Das Unternehmen und die eigene Rolle im Betrieb beschreiben
 
 DE
-## Lernziele
-- Rolle von Softwareentwicklung im Unternehmen verstehen
-- Anforderungen sauber aufnehmen und dokumentieren
-- Grundbegriffe: System, Anwendung, Benutzer, Daten, Prozess
+## Überblick
+Dieses Verzeichnis sammelt die wichtigsten Inhalte zu LF1 in kompakter, lernbarer Form. Der Schwerpunkt liegt auf dem Ausbildungsbetrieb, der Wertschöpfungskette, der eigenen Rolle im Unternehmen und einer klaren Präsentation dieser Inhalte.
 
-## Muss koennen
-- Einfache Anforderungen in User Stories oder Use Cases formulieren
-- Grundlegende Fachbegriffe korrekt verwenden
-- Arbeitsschritte nachvollziehbar dokumentieren
+## Inhalte
+- [lf1-overview.md](/Users/tao/Documents/GitHub/IT-Learning-Journey/courses/lernfeld-01/lf1-overview.md): ausführliche LF1-Zusammenfassung
+- [lf1-de-zh.md](/Users/tao/Documents/GitHub/IT-Learning-Journey/courses/lernfeld-01/lf1-de-zh.md): Deutsch-Chinesisch Gegenüberstellung wichtiger Inhalte
+- [lf1-presentation-template.md](/Users/tao/Documents/GitHub/IT-Learning-Journey/courses/lernfeld-01/lf1-presentation-template.md): Vorlage für Vortrag, Handout oder Klassenpräsentation
 
-## AP1 Bezug (AWE)
-- Basiswissen, Dokumentation, einfache Aufgaben
-- Kommunikation und strukturierte Darstellung
-
-## AP2 Bezug (AWE)
-- Strukturierte Loesungserarbeitung und Begruendung
-
-## Uebungen
-- Schreibe 3 User Stories fuer eine einfache App
-- Erstelle eine kurze Anforderungsanalyse (1 Seite)
-- Dokumentiere einen Arbeitsprozess als Checkliste
-
-## Checkliste
-- Begriffe sicher definiert
-- Anforderungen eindeutig formuliert
-- Dokumentation nachvollziehbar
+## Lernziel
+- den Ausbildungsbetrieb korrekt vorstellen
+- die Wertschöpfungskette erklären
+- die eigene Rolle im Betrieb beschreiben
+- wirtschaftliche, ökologische und soziale Ziele unterscheiden
 
 EN
-## Learning goals
-- Understand software roles and basic processes
-- Capture and document requirements
+## Overview
+This folder contains a compact LF1 study set focused on the training company, the value chain, your role in the company, and how to present these topics clearly.
 
-## Must know
-- User stories/use cases
-- Clear terminology and documentation
-
-## AP1 linkage
-- Basics and documentation
-
-## AP2 linkage
-- Structured reasoning
+## Files
+- [lf1-overview.md](/Users/tao/Documents/GitHub/IT-Learning-Journey/courses/lernfeld-01/lf1-overview.md): full LF1 summary
+- [lf1-de-zh.md](/Users/tao/Documents/GitHub/IT-Learning-Journey/courses/lernfeld-01/lf1-de-zh.md): German-Chinese study notes
+- [lf1-presentation-template.md](/Users/tao/Documents/GitHub/IT-Learning-Journey/courses/lernfeld-01/lf1-presentation-template.md): presentation template
