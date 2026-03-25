@@ -5,12 +5,24 @@ Zentrales Repository fuer meinen langfristigen Lernpfad in Richtung Softwareentw
 ## DE: Ziel
 Dieses Repository ist mein Einstiegspunkt. Alle Lern- und Projekt-Repositories sind hier nach Zweck organisiert:
 - `Notes`: Lernnotizen, Wochenprotokolle, Reflexion
+- `Courses`: Schul-Lernfelder (1-9) mit AP1/AP2 Bezug (AWE/FIAE)
 - `Labs`: kurze, kursbezogene Uebungen
 - `Projects`: lauffaehige, vorzeigbare Softwareprojekte
 
 ## DE: Repository-Map
 ### Notes
 - [Study-notes](https://github.com/lilarosa/Study-notes)
+
+### Courses
+- `courses/lernfeld-01`
+- `courses/lernfeld-02`
+- `courses/lernfeld-03`
+- `courses/lernfeld-04`
+- `courses/lernfeld-05`
+- `courses/lernfeld-06`
+- `courses/lernfeld-07`
+- `courses/lernfeld-08`
+- `courses/lernfeld-09`
 
 ### Labs
 - [Linux-Week1-Lab](https://github.com/lilarosa/Linux-Week1-Lab)
@@ -32,6 +44,7 @@ This is the central entry point for my long-term software engineering learning p
 
 ## EN: Structure
 - `Notes`: learning notes and weekly reflection
+- `Courses`: school learning fields 1-9 with AP1/AP2 linkage (AWE/FIAE)
 - `Labs`: short course-based exercises
 - `Projects`: runnable portfolio-oriented projects
 
