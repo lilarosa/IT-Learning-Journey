@@ -20,6 +20,20 @@ Heute haben wir im Unterricht ein einfaches CPS-/Arduino-Projekt aufgebaut: Ein 
 ## Foto des Aufbaus
 ![CPS-Aufbau](assets/2026-04-20-cps-aufbau.jpg)
 
+## Verdrahtung / Anschlussbeschreibung
+- `A0` liest den Spannungspunkt des NTC-Spannungsteilers
+- Der NTC arbeitet mit einem festen Widerstand als Spannungsteiler
+- `Pin 6` steuert die LED als Statusanzeige
+- `Pin 10` steuert den Luefter
+- `5V` und `GND` werden ueber die Breadboard-Schienen verteilt
+
+## Einfache Funktionskette
+1. Der NTC misst die Temperatur indirekt ueber seinen Widerstand.
+2. Der Arduino liest den Analogwert an `A0`.
+3. Der Messwert wird in `tempC` umgerechnet.
+4. Die Regelung vergleicht Ist-Temperatur und Sollwert.
+5. LED und Luefter werden je nach Zustand ein- oder ausgeschaltet.
+
 ## Steuerlogik
 - `SollT = 20` Grad Celsius
 - `Hysterese = 0.5`
@@ -120,3 +134,4 @@ Dieses Beispiel passt gut zu Lernfeld 07, weil hier Betrieb, Ueberwachung und ei
 - LED/Luefter-Zustand im seriellen Monitor mitloggen
 - Grenzwerte ueber Potentiometer oder Taster veraenderbar machen
 - spaeter Alarmfunktion oder Display ergaenzen
+- Projektdatei auch in `Scripts/Arduino-Projects/2026-04-20_temperature-fan-control` pflegen
